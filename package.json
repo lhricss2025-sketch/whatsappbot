@@ -2,10 +2,10 @@
   "name": "BLUE_DEMON",
   "version": "𝟑.𝟎",
   "description": "WhatsApp Bot with Telegram Control",
-  "main": "bot.js",
+  "main": "index.js",
   "type": "commonjs",
   "scripts": {
-    "start": "node bot.js"
+    "start": "node index.js"
   },
   "author": "Demon",
   "license": "ISC",
